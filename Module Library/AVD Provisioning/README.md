@@ -1,6 +1,6 @@
 # AVD Provisioning Module
 
-This module is intended to be refernced by the AVD Pipeline.
+This module is intended to be referenced by the AVD Pipeline.
 
 You will need to change some information in here before it is ready to run, most notably:
 
